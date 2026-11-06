@@ -1,0 +1,15 @@
+# Symfony
+/backend/symfony/vendor/
+/backend/symfony/var/
+
+# Vue
+/frontend/frontend-vue/node_modules/
+/frontend/frontend-vue/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
