@@ -1,6 +1,7 @@
 # Symfony
 /backend/symfony/vendor/
 /backend/symfony/var/
+/backend/symfony/.env.local
 
 # Vue
 /frontend/frontend-vue/node_modules/
@@ -11,5 +12,5 @@
 .idea/
 
 # OS
-.DS_Store
+Desktop.ini
 Thumbs.db
