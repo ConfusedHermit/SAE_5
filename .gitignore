@@ -4,8 +4,9 @@
 /backend/symfony/.env.local
 
 # Vue
-/frontend/frontend-vue/node_modules/
-/frontend/frontend-vue/dist/
+/frontend/vue-project/node_modules/
+/frontend/vue-project/dist/
+/frontend/vue-project/.vscode/
 
 # IDE
 .vscode/
